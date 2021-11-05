@@ -1,4 +1,4 @@
-### 🟢 Project registration screen and user request with ReactJS ®
+### <☘/> Project registration screen and user request with ReactJS ®  🟢
 
 >Projeto de duas telas, uma de cadastro de pedido,e outra onde é armazenado os pedidos, sendo possivel deletar e retornar ao inicio.
 
